@@ -1,0 +1,50 @@
+1,Mathematiques 1,Calculus and linear algebra,40,30,0,1,1,1,M. Cherradi
+2,Physique 1,General physics principles,35,25,15,1,1,1,F. Moradi
+3,Chimie Generale,General chemistry fundamentals,30,20,20,1,1,1,M. Addam
+4,Algorithmique,Introduction to algorithms,35,25,15,1,1,1,M. Cherradi
+5,Informatique 1,Computer fundamentals,30,20,25,1,1,1,T. Kadri
+6,Mathematiques 2,Advanced calculus,40,30,0,2,1,2,B. Elhaj
+7,Physique 2,Electromagnetism and optics,35,25,15,2,1,2,H. Ettajrini
+8,Mecanique du Point,Point mechanics,32,24,18,2,1,2,A. Khamjane
+9,Analyse Numerique,Numerical methods,30,28,12,2,1,2,A. Khamjane
+10,Informatique 2,Programming fundamentals,28,22,25,2,1,2,A. Bengag
+11,Programmation C,C programming language,30,20,25,1,2,1,A. Bahri
+12,Structures de Donnees,Data structures,35,25,20,1,2,1,M. Hallafou
+13,Base de Donnees,Database systems,30,25,20,2,2,2,E. Bouaza
+14,Systemes d'Exploitation,Operating systems,28,22,25,2,2,2,S. Oulad Chaib
+15,Reseaux Informatiques,Computer networks,30,25,20,2,2,2,I. Badi
+16,Programmation Orientee Objet,Object-oriented programming,32,24,24,2,2,2,A. Bahri
+17,Architecture des Ordinateurs,Computer architecture,30,22,18,2,2,2,A. Bahri
+18,Genie Logiciel,Software engineering,35,30,15,3,2,3,E.W. Dadi
+19,Intelligence Artificielle,Artificial intelligence,32,28,20,3,2,3,A. Bahri
+20,Securite Informatique,Cybersecurity,28,24,22,3,2,3,M. Oulhadj
+21,Developpement Web,Web development,30,20,30,3,2,3,A. Akhlal
+22,Big Data,Big data technologies,32,26,22,3,2,3,I. Allaouzi
+23,Resistance des Materiaux,Strength of materials,35,28,17,1,3,1,M. Addam
+24,Topographie,Topography and surveying,30,20,25,1,3,1,M. Darif
+25,Mecanique des Sols,Soil mechanics,32,26,18,2,3,2,T. Boudaa
+26,Hydraulique,Hydraulics,30,24,21,2,3,2,M. Cherradi
+27,Construction Metallique,Steel construction,28,24,23,2,3,2,A. Khamjane
+28,Beton Arme,Reinforced concrete,35,30,15,3,3,3,Y. Amiroune
+29,Routes et Autoroutes,Roads and highways,30,26,19,3,3,3,H. Routaib
+30,Ouvrages d'Art,Civil engineering structures,32,28,20,3,3,3,A. El Haddadi
+31,Hydrologie,Hydrology,30,25,20,1,4,1,T. Kadri
+32,Traitement des Eaux,Water treatment,32,26,22,1,4,1,B. Elhaj
+33,Hydraulique Urbaine,Urban hydraulics,28,24,23,2,4,2,A. El Haddadi
+34,Assainissement,Sanitation engineering,30,25,20,2,4,2,I. Allaouzi
+35,Gestion des Ressources en Eau,Water resource management,32,28,15,3,4,3,F. Bouhafeer
+36,Environnement,Environmental engineering,30,26,19,3,4,3,T. Boudaa
+37,Thermodynamique,Thermodynamics,35,28,17,1,5,1,S. Koulali
+38,Transfert Thermique,Heat transfer,32,26,22,2,5,2,A. El Haddadi
+39,Energies Renouvelables,Renewable energy,30,25,20,2,5,2,O. El Haddadi
+40,Machines Thermiques,Thermal machines,28,24,23,3,5,3,E. Zouhri
+41,Efficacite Energetique,Energy efficiency,30,26,19,3,5,3,H. Routaib
+42,Systemes Energetiques,Energy systems,32,28,20,3,5,3,M. Darif
+43,Mecanique Generale,General mechanics,35,28,17,1,6,1,S. Oulad Chouaib
+44,Conception Mecanique,Mechanical design,32,24,24,1,6,1,M. El Marouani
+45,Fabrication Mecanique,Mechanical manufacturing,30,22,28,2,6,2,F. Bouhafer
+46,Mecanique des Fluides,Fluid mechanics,32,26,22,2,6,2,E. Bouaza
+47,Automatique,Automation and control,28,24,23,2,6,2,A. Boufassil
+48,CAO DAO,CAD systems,25,15,35,3,6,3,T. Kadri
+49,Maintenance Industrielle,Industrial maintenance,30,25,20,3,6,3,T. Kadri
+50,Robotique,Robotics,32,28,20,3,6,3,A. Khamjane

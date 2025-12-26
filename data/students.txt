@@ -1,0 +1,100 @@
+1,ahmed,Alami,ahmed.alami1@etu.ma,0654782316,45 Avenue Mohammed V Casablanca,22,Cycle Préparatoire,3,3.45,1702483200,1
+2,Fatima,Benali,fatima.benali2@etu.ma,0678912345,12 Rue Hassan II Casablanca,20,Transformation Digitale et Intelligence Artificielle,2,3.67,1718956800,1
+3,Youssef,Cherkaoui,youssef.cherkaoui3@etu.ma,0623456789,89 Boulevard Zerktouni Casablanca,19,Ingénierie des données,1,3.89,1734019200,1
+4,Khadija,Diouri,khadija.diouri4@etu.ma,0687654321,156 Rue Oukaimeden Casablanca,21,Cycle Préparatoire,2,3.52,1710720000,1
+5,Mohamed,Elkhaldi,mohamed.elkhaldi5@etu.ma,0698765432,34 Avenue Atlas Casablanca,23,Génie Informatique,4,3.78,1686268800,1
+6,Aicha,Fassi,aicha.fassi6@etu.ma,0612345678,78 Rue Agadir Casablanca,20,Génie Informatique,2,3.91,1718956800,1
+7,Hamza,Gharbi,hamza.gharbi7@etu.ma,0656781234,123 Boulevard Anfa Casablanca,22,Génie Civil,3,3.44,1702483200,1
+8,Samira,Hajji,samira.hajji8@etu.ma,0645678912,67 Rue Tanger Casablanca,19,Cycle Préparatoire,1,3.66,1734019200,1
+9,Omar,Idrissi,omar.idrissi9@etu.ma,0687234567,145 Avenue Mohammed V Casablanca,24,Génie Mécanique,4,3.35,1678204800,1
+10,Zineb,Jaouhari,zineb.jaouhari10@etu.ma,0698123456,23 Rue Hassan II Casablanca,21,Cycle Préparatoire,3,3.88,1710720000,1
+11,Amine,Kettani,amine.kettani11@etu.ma,0623789456,91 Boulevard Zerktouni Casablanca,20,Génie Informatique,2,3.72,1718956800,1
+12,Salma,Lamrani,salma.lamrani12@etu.ma,0678345612,188 Rue Oukaimeden Casablanca,22,Génie Informatique,3,3.59,1702483200,1
+13,Mehdi,Moussaoui,mehdi.moussaoui13@etu.ma,0654891237,56 Avenue Atlas Casablanca,19,Transformation Digitale et Intelligence Artificielle,1,3.81,1734019200,1
+14,Nadia,Naciri,nadia.naciri14@etu.ma,0689567234,134 Rue Agadir Casablanca,23,Génie Informatique,4,3.94,1686268800,1
+15,Karim,Ouazzani,karim.ouazzani15@etu.ma,0612789345,45 Boulevard Anfa Casablanca,21,Génie Mécanique,2,3.48,1710720000,1
+16,Amina,Qadiri,amina.qadiri16@etu.ma,0645912378,99 Rue Tanger Casablanca,20,Génie Mécanique,2,3.73,1718956800,1
+17,Samir,Radi,samir.radi17@etu.ma,0687456123,167 Avenue Mohammed V Casablanca,22,Ingénierie des données,3,3.62,1702483200,1
+18,Yasmine,Sahraoui,yasmine.sahraoui18@etu.ma,0698234567,28 Rue Hassan II Casablanca,24,Génie Informatique,4,3.41,1678204800,1
+19,Rachid,Tazi,rachid.tazi19@etu.ma,0623567891,112 Boulevard Zerktouni Casablanca,19,Génie Civil,1,3.87,1734019200,1
+20,Safaa,Bennani,safaa.bennani20@etu.ma,0678912346,78 Rue Oukaimeden Casablanca,21,Génie Informatique,3,3.55,1710720000,1
+21,Hassan,Azizi,hassan.azizi21@etu.ma,0654234567,145 Avenue Atlas Casablanca,23,Génie Informatique,4,3.76,1686268800,1
+22,Mariam,Bouazza,mariam.bouazza22@etu.ma,0689123478,34 Rue Agadir Casablanca,20,Génie de l'Eau et de l'Environnement,2,3.92,1718956800,1
+23,Khalid,Chakir,khalid.chakir23@etu.ma,0612456789,89 Boulevard Anfa Casablanca,22,Cycle Préparatoire,3,3.46,1702483200,1
+24,Laila,Darif,laila.darif24@etu.ma,0645789123,156 Rue Tanger Casablanca,19,Génie Mécanique,1,3.69,1734019200,1
+25,Adil,Elmorabit,adil.elmorabit25@etu.ma,0687891234,67 Avenue Mohammed V Casablanca,21,Génie de l'Eau et de l'Environnement,2,3.58,1710720000,1
+26,Hasna,Filali,hasna.filali26@etu.ma,0698567234,123 Rue Hassan II Casablanca,24,Ingénierie des données,4,3.83,1678204800,1
+27,Nabil,Ghazi,nabil.ghazi27@etu.ma,0623891456,45 Boulevard Zerktouni Casablanca,20,Génie de l'Eau et de l'Environnement,2,3.71,1718956800,1
+28,Houda,Hammoudi,houda.hammoudi28@etu.ma,0678456789,178 Rue Oukaimeden Casablanca,22,Génie Informatique,3,3.54,1702483200,1
+29,Hicham,Iraqi,hicham.iraqi29@etu.ma,0654567891,91 Avenue Atlas Casablanca,19,Génie Énergétiques et Énergies Renouvelables,1,3.79,1734019200,1
+30,Imane,Jilali,imane.jilali30@etu.ma,0689234567,134 Rue Agadir Casablanca,23,Ingénierie des données,4,3.96,1686268800,1
+31,Abdelaziz,Alami,abdelaziz.alami31@etu.ma,0612891234,56 Boulevard Anfa Casablanca,21,Génie de l'Eau et de l'Environnement,3,3.49,1710720000,1
+32,Karima,Benali,karima.benali32@etu.ma,0645234678,189 Rue Tanger Casablanca,20,Ingénierie des données,2,3.74,1718956800,1
+33,Brahim,Cherkaoui,brahim.cherkaoui33@etu.ma,0687567891,45 Avenue Mohammed V Casablanca,22,Génie Énergétiques et Énergies Renouvelables,3,3.61,1702483200,1
+34,Latifa,Diouri,latifa.diouri34@etu.ma,0698891234,12 Rue Hassan II Casablanca,24,Génie Civil,4,3.42,1678204800,1
+35,Zakaria,Elkhaldi,zakaria.elkhaldi35@etu.ma,0623234567,89 Boulevard Zerktouni Casablanca,19,Ingénierie des données,1,3.86,1734019200,1
+36,Malika,Fassi,malika.fassi36@etu.ma,0678678912,156 Rue Oukaimeden Casablanca,21,Ingénierie des données,2,3.56,1710720000,1
+37,Othmane,Gharbi,othmane.gharbi37@etu.ma,0654891234,34 Avenue Atlas Casablanca,23,Cycle Préparatoire,4,3.77,1686268800,1
+38,Nezha,Hajji,nezha.hajji38@etu.ma,0689567891,78 Rue Agadir Casablanca,20,Transformation Digitale et Intelligence Artificielle,2,3.93,1718956800,1
+39,Ilyas,Idrissi,ilyas.idrissi39@etu.ma,0612234567,123 Boulevard Anfa Casablanca,22,Ingénierie des données,3,3.47,1702483200,1
+40,Soraya,Jaouhari,soraya.jaouhari40@etu.ma,0645678923,67 Rue Tanger Casablanca,19,Génie Mécanique,1,3.68,1734019200,1
+41,Ahmed,Kettani,ahmed.kettani41@etu.ma,0687234568,145 Avenue Mohammed V Casablanca,21,Génie Énergétiques et Énergies Renouvelables,3,3.57,1710720000,1
+42,Fatima,Lamrani,fatima.lamrani42@etu.ma,0698456789,23 Rue Hassan II Casablanca,24,Ingénierie des données,4,3.84,1678204800,1
+43,Youssef,Moussaoui,youssef.moussaoui43@etu.ma,0623678912,91 Boulevard Zerktouni Casablanca,20,Génie Civil,2,3.72,1718956800,1
+44,Khadija,Naciri,khadija.naciri44@etu.ma,0678123456,188 Rue Oukaimeden Casablanca,22,Génie Énergétiques et Énergies Renouvelables,3,3.53,1702483200,1
+45,Mohamed,Ouazzani,mohamed.ouazzani45@etu.ma,0654345678,56 Avenue Atlas Casablanca,19,Ingénierie des données,1,3.78,1734019200,1
+46,Aicha,Qadiri,aicha.qadiri46@etu.ma,0689891234,134 Rue Agadir Casablanca,23,Génie Mécanique,4,3.95,1686268800,1
+47,Hamza,Radi,hamza.radi47@etu.ma,0612567891,45 Boulevard Anfa Casablanca,21,Génie Mécanique,2,3.50,1710720000,1
+48,Samira,Sahraoui,samira.sahraoui48@etu.ma,0645891237,99 Rue Tanger Casablanca,20,Génie Énergétiques et Énergies Renouvelables,2,3.75,1718956800,1
+49,Omar,Tazi,omar.tazi49@etu.ma,0687678912,167 Avenue Mohammed V Casablanca,22,Génie de l'Eau et de l'Environnement,3,3.63,1702483200,1
+50,Zineb,Bennani,zineb.bennani50@etu.ma,0698234568,28 Rue Hassan II Casablanca,24,Cycle Préparatoire,4,3.43,1678204800,1
+51,Amine,Azizi,amine.azizi51@etu.ma,0623456790,112 Boulevard Zerktouni Casablanca,19,Ingénierie des données,1,3.88,1734019200,1
+52,Salma,Bouazza,salma.bouazza52@etu.ma,0678789123,78 Rue Oukaimeden Casablanca,21,Génie Énergétiques et Énergies Renouvelables,3,3.57,1710720000,1
+53,Mehdi,Chakir,mehdi.chakir53@etu.ma,0654678912,145 Avenue Atlas Casablanca,23,Ingénierie des données,4,3.79,1686268800,1
+54,Nadia,Darif,nadia.darif54@etu.ma,0689123479,34 Rue Agadir Casablanca,20,Génie de l'Eau et de l'Environnement,2,3.90,1718956800,1
+55,Karim,Elmorabit,karim.elmorabit55@etu.ma,0612789346,89 Boulevard Anfa Casablanca,22,Génie Civil,3,3.45,1702483200,1
+56,Amina,Filali,amina.filali56@etu.ma,0645234679,156 Rue Tanger Casablanca,19,Génie Informatique,1,3.70,1734019200,1
+57,Samir,Ghazi,samir.ghazi57@etu.ma,0687891235,67 Avenue Mohammed V Casablanca,21,Cycle Préparatoire,2,3.59,1710720000,1
+58,Yasmine,Hammoudi,yasmine.hammoudi58@etu.ma,0698567235,123 Rue Hassan II Casablanca,24,Cycle Préparatoire,4,3.85,1678204800,1
+59,Rachid,Iraqi,rachid.iraqi59@etu.ma,0623891457,45 Boulevard Zerktouni Casablanca,20,Génie Mécanique,2,3.73,1718956800,1
+60,Safaa,Jilali,safaa.jilali60@etu.ma,0678456790,178 Rue Oukaimeden Casablanca,22,Cycle Préparatoire,3,3.55,1702483200,1
+61,Hassan,Alami,hassan.alami61@etu.ma,0654567892,91 Avenue Atlas Casablanca,19,Ingénierie des données,1,3.80,1734019200,1
+62,Mariam,Benali,mariam.benali62@etu.ma,0689234568,134 Rue Agadir Casablanca,23,Cycle Préparatoire,4,3.97,1686268800,1
+63,Khalid,Cherkaoui,khalid.cherkaoui63@etu.ma,0612891235,56 Boulevard Anfa Casablanca,21,Génie Informatique,3,3.48,1710720000,1
+64,Laila,Diouri,laila.diouri64@etu.ma,0645234680,189 Rue Tanger Casablanca,20,Génie de l'Eau et de l'Environnement,2,3.76,1718956800,1
+65,Adil,Elkhaldi,adil.elkhaldi65@etu.ma,0687567892,45 Avenue Mohammed V Casablanca,22,Génie Mécanique,3,3.62,1702483200,1
+66,Hasna,Fassi,hasna.fassi66@etu.ma,0698891235,12 Rue Hassan II Casablanca,24,Cycle Préparatoire,4,3.44,1678204800,1
+67,Nabil,Gharbi,nabil.gharbi67@etu.ma,0623234568,89 Boulevard Zerktouni Casablanca,19,Génie de l'Eau et de l'Environnement,1,3.87,1734019200,1
+68,Houda,Hajji,houda.hajji68@etu.ma,0678678913,156 Rue Oukaimeden Casablanca,21,Génie Mécanique,2,3.58,1710720000,1
+69,Hicham,Idrissi,hicham.idrissi69@etu.ma,0654891235,34 Avenue Atlas Casablanca,23,Cycle Préparatoire,4,3.78,1686268800,1
+70,Imane,Jaouhari,imane.jaouhari70@etu.ma,0689567892,78 Rue Agadir Casablanca,20,Génie de l'Eau et de l'Environnement,2,3.94,1718956800,1
+71,Abdelaziz,Kettani,abdelaziz.kettani71@etu.ma,0612234568,123 Boulevard Anfa Casablanca,22,Génie de l'Eau et de l'Environnement,3,3.46,1702483200,1
+72,Karima,Lamrani,karima.lamrani72@etu.ma,0645678924,67 Rue Tanger Casablanca,19,Ingénierie des données,1,3.69,1734019200,1
+73,Brahim,Moussaoui,brahim.moussaoui73@etu.ma,0687234569,145 Avenue Mohammed V Casablanca,21,Transformation Digitale et Intelligence Artificielle,3,3.56,1710720000,1
+74,Latifa,Naciri,latifa.naciri74@etu.ma,0698456790,23 Rue Hassan II Casablanca,24,Génie Civil,4,3.86,1678204800,1
+75,Zakaria,Ouazzani,zakaria.ouazzani75@etu.ma,0623678913,91 Boulevard Zerktouni Casablanca,20,Génie Énergétiques et Énergies Renouvelables,2,3.74,1718956800,1
+76,Malika,Qadiri,malika.qadiri76@etu.ma,0678123457,188 Rue Oukaimeden Casablanca,22,Génie Informatique,3,3.54,1702483200,1
+77,Othmane,Radi,othmane.radi77@etu.ma,0654345679,56 Avenue Atlas Casablanca,19,Transformation Digitale et Intelligence Artificielle,1,3.77,1734019200,1
+78,Nezha,Sahraoui,nezha.sahraoui78@etu.ma,0689891235,134 Rue Agadir Casablanca,23,Génie Civil,4,3.96,1686268800,1
+79,Ilyas,Tazi,ilyas.tazi79@etu.ma,0612567892,45 Boulevard Anfa Casablanca,21,Transformation Digitale et Intelligence Artificielle,2,3.51,1710720000,1
+80,Soraya,Bennani,soraya.bennani80@etu.ma,0645891238,99 Rue Tanger Casablanca,20,Transformation Digitale et Intelligence Artificielle,2,3.77,1718956800,1
+81,Ahmed,Azizi,ahmed.azizi81@etu.ma,0687678913,167 Avenue Mohammed V Casablanca,22,Cycle Préparatoire,3,3.64,1702483200,1
+82,Fatima,Bouazza,fatima.bouazza82@etu.ma,0698234569,28 Rue Hassan II Casablanca,24,Ingénierie des données,4,3.45,1678204800,1
+83,Youssef,Chakir,youssef.chakir83@etu.ma,0623456791,112 Boulevard Zerktouni Casablanca,19,Transformation Digitale et Intelligence Artificielle,1,3.89,1734019200,1
+84,Khadija,Darif,khadija.darif84@etu.ma,0678789124,78 Rue Oukaimeden Casablanca,21,Ingénierie des données,3,3.59,1710720000,1
+85,Mohamed,Elmorabit,mohamed.elmorabit85@etu.ma,0654678913,145 Avenue Atlas Casablanca,23,Génie Mécanique,4,3.80,1686268800,1
+86,Aicha,Filali,aicha.filali86@etu.ma,0689123480,34 Rue Agadir Casablanca,20,Génie Mécanique,2,3.91,1718956800,1
+87,Hamza,Ghazi,hamza.ghazi87@etu.ma,0612789347,89 Boulevard Anfa Casablanca,22,Génie Énergétiques et Énergies Renouvelables,3,3.44,1702483200,1
+88,Samira,Hammoudi,samira.hammoudi88@etu.ma,0645234681,156 Rue Tanger Casablanca,19,Génie Mécanique,1,3.71,1734019200,1
+89,Omar,Iraqi,omar.iraqi89@etu.ma,0687891236,67 Avenue Mohammed V Casablanca,21,Génie de l'Eau et de l'Environnement,2,3.60,1710720000,1
+90,Zineb,Jilali,zineb.jilali90@etu.ma,0698567236,123 Rue Hassan II Casablanca,24,Génie Civil,4,3.87,1678204800,1
+91,Amine,Alami,amine.alami91@etu.ma,0623891458,45 Boulevard Zerktouni Casablanca,20,Génie Énergétiques et Énergies Renouvelables,2,3.75,1718956800,1
+92,Salma,Benali,salma.benali92@etu.ma,0678456791,178 Rue Oukaimeden Casablanca,22,Génie Civil,3,3.56,1702483200,1
+93,Mehdi,Cherkaoui,mehdi.cherkaoui93@etu.ma,0654567893,91 Avenue Atlas Casablanca,19,Génie Informatique,1,3.81,1734019200,1
+94,Nadia,Diouri,nadia.diouri94@etu.ma,0689234569,134 Rue Agadir Casablanca,23,Génie Énergétiques et Énergies Renouvelables,4,3.98,1686268800,1
+95,Karim,Elkhaldi,karim.elkhaldi95@etu.ma,0612891236,56 Boulevard Anfa Casablanca,21,Génie Mécanique,3,3.47,1710720000,1
+96,Amina,Fassi,amina.fassi96@etu.ma,0645234682,189 Rue Tanger Casablanca,20,Génie Informatique,2,3.78,1718956800,1
+97,Samir,Gharbi,samir.gharbi97@etu.ma,0687567893,45 Avenue Mohammed V Casablanca,22,Génie Informatique,3,3.65,1702483200,1
+98,Yasmine,Hajji,yasmine.hajji98@etu.ma,0698891236,12 Rue Hassan II Casablanca,24,Génie Informatique,4,3.46,1678204800,1
+99,Rachid,Idrissi,rachid.idrissi99@etu.ma,0623234569,89 Boulevard Zerktouni Casablanca,19,Génie Mécanique,1,3.90,1734019200,1
+100,Safaa,Jaouhari,safaa.jaouhari100@etu.ma,0678678914,156 Rue Oukaimeden Casablanca,21,Génie de l'Eau et de l'Environnement,2,3.60,1710720000,1

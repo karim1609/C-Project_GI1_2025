@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+
+# Build directories
+build/
+
+# Coverage and test outputs
+coverage/
+*.cover
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+*~
+
+# Ignore secrets if any
+.env

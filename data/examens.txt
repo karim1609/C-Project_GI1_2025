@@ -1,0 +1,25 @@
+| 1 | 11 | Programmation C | 11/12/2024 | 14:00:00 | 120 |
+| 2 | 2 | Algorithmique | 10/12/2024 | 10:00:00 | 180 |
+| 3 | 3 | Mathematiques 1 | 09/12/2024 | 09:00:00 | 150 |
+| 4 | 4 | Physique Generale | 08/12/2024 | 14:00:00 | 120 |
+| 5 | 5 | Systemes Exploitation | 07/12/2024 | 08:00:00 | 150 |
+| 6 | 6 | Base de Donnees | 06/12/2024 | 10:00:00 | 180 |
+| 7 | 7 | Reseaux Informatiques | 05/12/2024 | 14:00:00 | 120 |
+| 8 | 8 | Analyse Numerique | 04/12/2024 | 09:00:00 | 150 |
+| 9 | 9 | Genie Logiciel | 03/12/2024 | 13:00:00 | 180 |
+| 10 | 19 | Intelligence Artificielle | 02/12/2024 | 10:00:00 | 150 |
+| 11 | 11 | Securite Informatique | 01/12/2024 | 14:00:00 | 120 |
+| 12 | 17 | Architecture Ordinateurs | 30/11/2024 | 09:00:00 | 150 |
+| 13 | 13 | Thermodynamique | 29/11/2024 | 14:00:00 | 120 |
+| 14 | 14 | Mecanique Fluides | 28/11/2024 | 10:00:00 | 150 |
+| 15 | 15 | Resistance Materiaux | 27/11/2024 | 08:00:00 | 180 |
+| 16 | 16 | Electronique Analogique | 26/11/2024 | 14:00:00 | 120 |
+| 17 | 17 | Automatique | 25/11/2024 | 09:00:00 | 150 |
+| 18 | 18 | Gestion de Projet | 24/11/2024 | 13:00:00 | 120 |
+| 19 | 19 | Marketing Digital | 23/11/2024 | 10:00:00 | 150 |
+| 20 | 20 | Comptabilite Generale | 22/11/2024 | 14:00:00 | 180 |
+| 21 | 11 | Programmation C | 12/12/2024 | 14:00:00 | 120 |
+| 22 | 2 | Algorithmique | 13/12/2024 | 10:00:00 | 180 |
+| 23 | 3 | Mathematiques 1 | 14/12/2024 | 09:00:00 | 150 |
+| 24 | 4 | Physique Generale | 15/12/2024 | 14:00:00 | 120 |
+| 25 | 5 | Systemes Exploitation | 16/12/2024 | 08:00:00 | 150 |

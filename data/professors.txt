@@ -1,0 +1,93 @@
+111|F.|Bouhafeer|f.bouhafeer@university.edu|555-0111|12 Rue Hassan II Casablanca|Preparatory Engineering|Mathematics|10|Building A - Room 111|1451606400|1
+112|F.|Moradi|f.moradi@university.edu|555-0112|45 Avenue Mohammed V Casablanca|Preparatory Engineering|Physics|8|Building A - Room 112|1483228800|1
+113|M.|Addam|m.addam@university.edu|555-0113|78 Boulevard Zerktouni Casablanca|Preparatory Engineering|Computer Science|12|Building A - Room 113|1420070400|1
+114|M.|Cherradi|m.cherradi@university.edu|555-0114|156 Rue Oukaimeden Casablanca|Preparatory Engineering|Chemistry|15|Building A - Room 114|1388534400|1
+115|T.|Kadri|t.kadri@university.edu|555-0115|34 Avenue Atlas Casablanca|Preparatory Engineering|Algorithms|9|Building A - Room 115|1467244800|1
+116|B.|Elhaj|b.elhaj@university.edu|555-0116|89 Rue Agadir Casablanca|Preparatory Engineering|Mathematics|11|Building A - Room 116|1435708800|1
+117|H.|Ettajrini|h.ettajrini@university.edu|555-0117|123 Boulevard Anfa Casablanca|Preparatory Engineering|Mechanics|7|Building A - Room 117|1504224000|1
+118|A.|Bahri|a.bahri@university.edu|555-0118|67 Rue Tanger Casablanca|Preparatory Engineering|Analysis|14|Building A - Room 118|1420070400|1
+119|M.|Addam|m.addam2@university.edu|555-0119|145 Avenue Mohammed V Casablanca|Preparatory Engineering|Programming|12|Building A - Room 119|1420070400|1
+1110|A.|Khamjane|a.khamjane@university.edu|555-1110|23 Rue Hassan II Casablanca|Preparatory Engineering|Electronics|10|Building A - Room 1110|1451606400|1
+121|A.|Bengag|a.bengag@university.edu|555-0121|91 Boulevard Zerktouni Casablanca|Computer Engineering|Software Development|13|Building B - Room 121|1420070400|1
+122|A.|Boufassil|a.boufassil@university.edu|555-0122|188 Rue Oukaimeden Casablanca|Computer Engineering|Databases|9|Building B - Room 122|1483228800|1
+123|M.|Addam|m.addam3@university.edu|555-0123|56 Avenue Atlas Casablanca|Computer Engineering|Networks|12|Building B - Room 123|1420070400|1
+124|M.|Darif|m.darif@university.edu|555-0124|134 Rue Agadir Casablanca|Computer Engineering|Operating Systems|16|Building B - Room 124|1388534400|1
+125|T.|Boudaa|t.boudaa@university.edu|555-0125|45 Boulevard Anfa Casablanca|Computer Engineering|Artificial Intelligence|11|Building B - Room 125|1451606400|1
+126|M.|Cherradi|m.cherradi2@university.edu|555-0126|99 Rue Tanger Casablanca|Computer Engineering|Cybersecurity|15|Building B - Room 126|1388534400|1
+231|A.|Khamjane|a.khamjane2@university.edu|555-0231|167 Avenue Mohammed V Casablanca|Computer Engineering|Web Development|10|Building B - Room 231|1451606400|1
+232|Y.|Amiroune|y.amiroune@university.edu|555-0232|28 Rue Hassan II Casablanca|Computer Engineering|Mobile Development|8|Building B - Room 232|1483228800|1
+233|H.|Routaib|h.routaib@university.edu|555-0233|112 Boulevard Zerktouni Casablanca|Computer Engineering|Cloud Computing|12|Building B - Room 233|1435708800|1
+234|A.|El Haddadi|a.elhaddadi@university.edu|555-0234|78 Rue Oukaimeden Casablanca|Computer Engineering|Machine Learning|14|Building B - Room 234|1420070400|1
+235|T.|Kadri|t.kadri2@university.edu|555-0235|145 Avenue Atlas Casablanca|Civil Engineering|Structural Analysis|9|Building C - Room 235|1467244800|1
+236|B.|Elhaj|b.elhaj2@university.edu|555-0236|34 Rue Agadir Casablanca|Civil Engineering|Construction Materials|11|Building C - Room 236|1435708800|1
+237|A.|El Haddadi|a.elhaddadi2@university.edu|555-0237|89 Boulevard Anfa Casablanca|Civil Engineering|Soil Mechanics|14|Building C - Room 237|1420070400|1
+241|A.|El Haddadi|a.elhaddadi3@university.edu|555-0241|156 Rue Tanger Casablanca|Civil Engineering|Hydraulics|14|Building C - Room 241|1420070400|1
+242|I.|Allaouzi|i.allaouzi@university.edu|555-0242|67 Avenue Mohammed V Casablanca|Civil Engineering|Steel Construction|10|Building C - Room 242|1467244800|1
+243|F.|Bouhafeer|f.bouhafeer2@university.edu|555-0243|123 Rue Hassan II Casablanca|Civil Engineering|Concrete Structures|10|Building C - Room 243|1451606400|1
+244|T.|Boudaa|t.boudaa2@university.edu|555-0244|45 Boulevard Zerktouni Casablanca|Civil Engineering|Roads Engineering|11|Building C - Room 244|1451606400|1
+245|T.|Boudaa|t.boudaa3@university.edu|555-0245|178 Rue Oukaimeden Casablanca|Civil Engineering|Bridges Design|11|Building C - Room 245|1451606400|1
+246|S.|Koulali|s.koulali@university.edu|555-0246|91 Avenue Atlas Casablanca|Water Environment Engineering|Hydrology|9|Building D - Room 246|1483228800|1
+351|A.|El Haddadi|a.elhaddadi4@university.edu|555-0351|134 Rue Agadir Casablanca|Water Environment Engineering|Water Treatment|14|Building D - Room 351|1420070400|1
+352|O.|El Haddadi|o.elhaddadi@university.edu|555-0352|45 Boulevard Anfa Casablanca|Water Environment Engineering|Urban Hydraulics|13|Building D - Room 352|1435708800|1
+353|E.|Zouhri|e.zouhri@university.edu|555-0353|99 Rue Tanger Casablanca|Water Environment Engineering|Sanitation|8|Building D - Room 353|1504224000|1
+354|H.|Routaib|h.routaib2@university.edu|555-0354|167 Avenue Mohammed V Casablanca|Water Environment Engineering|Water Resources|12|Building D - Room 354|1435708800|1
+355|M.|Darif|m.darif2@university.edu|555-0355|28 Rue Hassan II Casablanca|Water Environment Engineering|Environmental Engineering|16|Building D - Room 355|1388534400|1
+356|S.|Oulad Chouaib|s.ouladchouaib@university.edu|555-0356|112 Boulevard Zerktouni Casablanca|Energetic Engineering|Thermodynamics|10|Building E - Room 356|1467244800|1
+10111|Y.|Messaoudi|y.messaoudi@university.edu|555-1111|78 Rue Oukaimeden Casablanca|Energetic Engineering|Heat Transfer|12|Building E - Room 111|1435708800|1
+10112|M.|Hallafou|m.hallafou@university.edu|555-1112|145 Avenue Atlas Casablanca|Energetic Engineering|Renewable Energy|14|Building E - Room 112|1420070400|1
+10113|E.|Bouaza|e.bouaza@university.edu|555-1113|34 Rue Agadir Casablanca|Energetic Engineering|Thermal Machines|10|Building E - Room 113|1467244800|1
+10114|S.|Oulad Chaib|s.ouladchaib@university.edu|555-1114|89 Boulevard Anfa Casablanca|Energetic Engineering|Energy Efficiency|9|Building E - Room 114|1483228800|1
+10115|I.|Badi|i.badi@university.edu|555-1115|156 Rue Tanger Casablanca|Energetic Engineering|Energy Systems|11|Building E - Room 115|1451606400|1
+10116|A.L.|El Idrissi|al.elidrissi@university.edu|555-1116|67 Avenue Mohammed V Casablanca|Mechanical Engineering|General Mechanics|13|Building F - Room 116|1420070400|1
+10117|A.|Bahri|a.bahri2@university.edu|555-1117|123 Rue Hassan II Casablanca|Mechanical Engineering|Mechanical Design|14|Building F - Room 117|1420070400|1
+10118|A.L.|El Idrissi|al.elidrissi2@university.edu|555-1118|45 Boulevard Zerktouni Casablanca|Mechanical Engineering|Manufacturing|13|Building F - Room 118|1420070400|1
+10121|Y.|El Borji|y.elborji@university.edu|555-1121|178 Rue Oukaimeden Casablanca|Mechanical Engineering|Fluid Mechanics|10|Building F - Room 121|1467244800|1
+10122|E.W.|Dadi|ew.dadi@university.edu|555-1122|91 Avenue Atlas Casablanca|Mechanical Engineering|Automation|15|Building F - Room 122|1388534400|1
+10123|A.|Ragragui|a.ragragui@university.edu|555-1123|134 Rue Agadir Casablanca|Mechanical Engineering|CAD Systems|12|Building F - Room 123|1435708800|1
+10124|M.|Oulhadj|m.oulhadj@university.edu|555-1124|45 Boulevard Anfa Casablanca|Mechanical Engineering|Industrial Maintenance|11|Building F - Room 124|1451606400|1
+10125|E.W.|Dadi|ew.dadi2@university.edu|555-1125|99 Rue Tanger Casablanca|Mechanical Engineering|Robotics|15|Building F - Room 125|1388534400|1
+10126|F.|Belaali|f.belaali@university.edu|555-1126|167 Avenue Mohammed V Casablanca|Computer Engineering|Software Engineering|9|Building B - Room 311|1483228800|1
+10211|E.W.|Dadi|ew.dadi3@university.edu|555-2111|28 Rue Hassan II Casablanca|Computer Engineering|Computer Architecture|15|Building B - Room 312|1388534400|1
+10212|M.|Cherradi|m.cherradi3@university.edu|555-2112|112 Boulevard Zerktouni Casablanca|Computer Engineering|Distributed Systems|15|Building B - Room 313|1388534400|1
+10213|A.|Amakssoum|a.amakssoum@university.edu|555-2113|78 Rue Oukaimeden Casablanca|Computer Engineering|Data Mining|10|Building B - Room 314|1467244800|1
+10214|M.|Cherradi|m.cherradi4@university.edu|555-2114|145 Avenue Atlas Casablanca|Computer Engineering|Big Data|15|Building B - Room 315|1388534400|1
+10215|E.|Bouaza|e.bouaza2@university.edu|555-2115|34 Rue Agadir Casablanca|Computer Engineering|IoT Systems|10|Building B - Room 316|1467244800|1
+10216|A.|Bahri|a.bahri3@university.edu|555-2116|89 Boulevard Anfa Casablanca|Computer Engineering|Blockchain|14|Building B - Room 317|1420070400|1
+10217|M.|Hallafou|m.hallafou2@university.edu|555-2117|156 Rue Tanger Casablanca|Computer Engineering|DevOps|14|Building B - Room 318|1420070400|1
+10218|N.|Sellimatou|n.sellimatou@university.edu|555-2118|67 Avenue Mohammed V Casablanca|Computer Engineering|UI UX Design|8|Building B - Room 319|1504224000|1
+10221|A.|Akhlal|a.akhlal@university.edu|555-2121|123 Rue Hassan II Casablanca|Civil Engineering|Project Management|11|Building C - Room 321|1451606400|1
+10222|I.|Allaouzi|i.allaouzi2@university.edu|555-2122|45 Boulevard Zerktouni Casablanca|Civil Engineering|Topography|10|Building C - Room 322|1467244800|1
+10223|A.|Benaissa|a.benaissa@university.edu|555-2123|178 Rue Oukaimeden Casablanca|Civil Engineering|Geotechnics|12|Building C - Room 323|1435708800|1
+10224|A.|Ragragui|a.ragragui2@university.edu|555-2124|91 Avenue Atlas Casablanca|Water Environment Engineering|Waste Management|12|Building D - Room 324|1435708800|1
+10225|C.|Kaddouri|c.kaddouri@university.edu|555-2125|134 Rue Agadir Casablanca|Water Environment Engineering|Water Quality|9|Building D - Room 325|1483228800|1
+10226|A.|Bengag|a.bengag2@university.edu|555-2126|45 Boulevard Anfa Casablanca|Energetic Engineering|Solar Energy|13|Building E - Room 326|1420070400|1
+10227|T.|Boudaa|t.boudaa4@university.edu|555-2127|99 Rue Tanger Casablanca|Energetic Engineering|Wind Energy|11|Building E - Room 327|1451606400|1
+10311|M.|El Marouani|m.elmarouani@university.edu|555-3111|167 Avenue Mohammed V Casablanca|Mechanical Engineering|Materials Science|16|Building F - Room 331|1388534400|1
+10312|M.|Daoud|m.daoud@university.edu|555-3112|28 Rue Hassan II Casablanca|Mechanical Engineering|Vibration Analysis|14|Building F - Room 332|1420070400|1
+10313|M.|Daoud|m.daoud2@university.edu|555-3113|112 Boulevard Zerktouni Casablanca|Mechanical Engineering|Machine Design|14|Building F - Room 333|1420070400|1
+10314|M.|Daoud|m.daoud3@university.edu|555-3114|78 Rue Oukaimeden Casablanca|Mechanical Engineering|Production Systems|14|Building F - Room 334|1420070400|1
+10315|H.|Routaib|h.routaib3@university.edu|555-3115|145 Avenue Atlas Casablanca|Preparatory Engineering|Numerical Analysis|12|Building A - Room 211|1435708800|1
+10316|I.|Badi|i.badi2@university.edu|555-3116|34 Rue Agadir Casablanca|Preparatory Engineering|Differential Equations|11|Building A - Room 212|1451606400|1
+10317|F.|Bellaali|f.bellaali@university.edu|555-3117|89 Boulevard Anfa Casablanca|Preparatory Engineering|Linear Algebra|9|Building A - Room 213|1483228800|1
+20111|M.|El Marouani|m.elmarouani2@university.edu|555-4111|156 Rue Tanger Casablanca|Computer Engineering|Data Science|16|Building B - Room 411|1388534400|1
+20112|F.|Bouhafer|f.bouhafer@university.edu|555-4112|67 Avenue Mohammed V Casablanca|Computer Engineering|Deep Learning|13|Building B - Room 412|1420070400|1
+20113|E.|Bouaza|e.bouaza3@university.edu|555-4113|123 Rue Hassan II Casablanca|Computer Engineering|Natural Language Processing|10|Building B - Room 413|1467244800|1
+20114|A.|Boufassil|a.boufassil2@university.edu|555-4114|45 Boulevard Zerktouni Casablanca|Computer Engineering|Computer Vision|9|Building B - Room 414|1483228800|1
+20115|Y.|Messaoudi|y.messaoudi2@university.edu|555-4115|178 Rue Oukaimeden Casablanca|Computer Engineering|Reinforcement Learning|12|Building B - Room 415|1435708800|1
+20116|T.|Kadri|t.kadri3@university.edu|555-4116|91 Avenue Atlas Casablanca|Computer Engineering|Neural Networks|9|Building B - Room 416|1467244800|1
+20117|A.|Bahri|a.bahri4@university.edu|555-4117|134 Rue Agadir Casablanca|Computer Engineering|Data Analytics|14|Building B - Room 417|1420070400|1
+20118|A.|Khamjane|a.khamjane3@university.edu|555-4118|45 Boulevard Anfa Casablanca|Computer Engineering|Business Intelligence|10|Building B - Room 418|1451606400|1
+20121|T.|Boudaa|t.boudaa5@university.edu|555-4121|99 Rue Tanger Casablanca|Civil Engineering|Earthquake Engineering|11|Building C - Room 421|1451606400|1
+20122|A.|Ragragui|a.ragragui3@university.edu|555-4122|167 Avenue Mohammed V Casablanca|Civil Engineering|Sustainable Construction|12|Building C - Room 422|1435708800|1
+20123|M.|Cherradi|m.cherradi5@university.edu|555-4123|28 Rue Hassan II Casablanca|Energetic Engineering|Nuclear Energy|15|Building E - Room 423|1388534400|1
+20124|A.|Benaissa|a.benaissa2@university.edu|555-4124|112 Boulevard Zerktouni Casablanca|Energetic Engineering|Biomass Energy|12|Building E - Room 424|1435708800|1
+20125|M.|Darif|m.darif3@university.edu|555-4125|78 Rue Oukaimeden Casablanca|Mechanical Engineering|Mechatronics|16|Building F - Room 425|1388534400|1
+20126|F.|Bouhafer|f.bouhafer2@university.edu|555-4126|145 Avenue Atlas Casablanca|Mechanical Engineering|Control Engineering|13|Building F - Room 426|1420070400|1
+20211|H.|Routaib|h.routaib4@university.edu|555-4211|34 Rue Agadir Casablanca|Water Environment Engineering|Coastal Engineering|12|Building D - Room 427|1435708800|1
+20212|H.|Routaib|h.routaib5@university.edu|555-4212|89 Boulevard Anfa Casablanca|Water Environment Engineering|Flood Management|12|Building D - Room 428|1435708800|1
+20213|E.|Bouaza|e.bouaza4@university.edu|555-4213|156 Rue Tanger Casablanca|Computer Engineering|Quantum Computing|10|Building B - Room 429|1467244800|1
+20214|T.|Kadri|t.kadri4@university.edu|555-4214|67 Avenue Mohammed V Casablanca|Computer Engineering|Edge Computing|9|Building B - Room 430|1467244800|1
+20215|M.|Nakhkhaly|m.nakhkhaly@university.edu|555-4215|123 Rue Hassan II Casablanca|Mechanical Engineering|Additive Manufacturing|11|Building F - Room 431|1451606400|1
+20216|A.|Khamjane|a.khamjane4@university.edu|555-4216|45 Boulevard Zerktouni Casablanca|Civil Engineering|Smart Cities|10|Building C - Room 432|1451606400|1
+20217|Y.|Messaoudi|y.messaoudi3@university.edu|555-4217|178 Rue Oukaimeden Casablanca|Energetic Engineering|Energy Storage|12|Building E - Room 433|1435708800|1
+20218|I.|Badi|i.badi3@university.edu|555-4218|91 Avenue Atlas Casablanca|Computer Engineering|Information Security|11|Building B - Room 434|1451606400|1
