@@ -28,3 +28,8 @@ tmp/
 
 # Ignore secrets if any
 .env
+
+# Misc / local files
+.gitignore
+test_professor_notes.c
+test_paths.sh
